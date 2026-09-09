@@ -52,5 +52,6 @@
 ## ¿Cómo iniciar el juego?
 Para iniciar el juego es sencillo.
 
-1. Descarga el repo
-2. Abre tú terminal (Windows) y escribe "npm 
+1. Descarga la versión más reciente.
+2. Descomprime el zip.
+3. Abre tú terminal (Windows) y escribe "node nombre.js"
