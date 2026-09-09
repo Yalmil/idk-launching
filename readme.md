@@ -54,4 +54,5 @@ Para iniciar el juego es sencillo.
 
 1. Descarga la versión más reciente.
 2. Descomprime el zip.
-3. Abre tú terminal (Windows) y escribe "node nombre.js"
+3. Descarga las dependencias con "npm install"
+4. Abre tú terminal (Windows) y escribe "node nombre.js"
